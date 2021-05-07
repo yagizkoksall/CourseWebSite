@@ -1,8 +1,8 @@
 package HomeWork3;
 
 public class User {
-    String firstName;
-    String lastName;
+   private String firstName;
+   private String lastName;
 
     public String getFirstName() {
         return firstName;
